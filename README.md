@@ -33,6 +33,7 @@
 </html>
 
 bhai jara hindi me likh de
+kuch samajh nahi aaraha
 >注意事项
 
 计步数并非精确计步，精确度跟算法和参数有关，本插件只是一个简单实现，并不太完美
